@@ -1,0 +1,14 @@
+{
+  "urls": [
+    "https://litlife.club/books/326945/files/Admin_Unknown_r1_LBIEA.pdf.zip",
+    "https://litlife.club/books/370115/files/Tajden_Milli_Sled_pary_r2_KrMMA.pdf.zip",
+	"https://litlife.club/books/326945/files/Admin_Unknown_r1_LBIEA.pdf.zip",
+	"https://www.onliner.by/"
+	
+	
+  ],
+  "outputDir": "/tmp/downloads",
+  "maxConcurrent": 5,
+  "perUrlTimeoutMs": 30000
+
+}
